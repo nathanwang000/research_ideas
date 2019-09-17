@@ -1,0 +1,4 @@
+simple research ideas I kept
+
+- bayesian credible learning
+- mixture of expert activation
