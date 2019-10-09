@@ -1,4 +1,4 @@
-simple research ideas I kept
+todo:
+1. save all experts
 
-- bayesian credible learning
-- mixture of expert activation
+
